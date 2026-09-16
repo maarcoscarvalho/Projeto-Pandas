@@ -13,6 +13,6 @@ Este repositório contém um projeto prático desenvolvido para demonstrar a apl
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Python 3.x**
+* **Python 3.14
 * **Pandas**: Manipulação, estruturação e análise de dados
 * **Jupyter Notebook / Google Colab**: Ambiente interativo de desenvolvimento
